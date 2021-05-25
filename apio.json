@@ -1,0 +1,70 @@
+ 
+ 
+[
+  {
+    "id": 1,
+    "name": "Bin sport 1Hd",
+    "img": " https://epg.beinsports.com/france_sports/HD1.svg"
+  },
+  {
+    "id": 2,
+    "name": "Bin sport 2Hd",
+    "img": " https://epg.beinsports.com/france_sports/HD2.svg"
+  },
+  {
+    "id": 3,
+    "name": "Bin sport 3Hd",
+    "img": " https://epg.beinsports.com/france_sports/HD3.svg"
+  },
+  {
+    "id": 4,
+    "name": "Bin sport 4Hd",
+    "img": " https://epg.beinsports.com/france_sports/4MAX.svg"
+  },
+  {
+    "id": 5,
+    "name": "Bin sport 5Hd",
+    "img": " https://epg.beinsports.com/france_sports/5MAX.svg"
+  },
+  {
+    "id": 6,
+    "name": "Bin sport 6Hd",
+    "img": " https://epg.beinsports.com/france_sports/6MAX.svg"
+  },
+  {
+    "id": 7,
+    "name": "Bin sport 7Hd",
+    "img": " https://epg.beinsports.com/france_sports/7MAX.svg"
+  },
+  {
+    "id": 8,
+    "name": "Bin sport 8Hd",
+    "img": " https://epg.beinsports.com/france_sports/8MAX.svg"
+  },
+  {
+    "id": 9,
+    "name": "Bin sport 9Hd",
+    "img": " https://epg.beinsports.com/france_sports/9MAX.svg"
+  },
+  {
+    "id": 10,
+    "name": "Bin sport 10Hd",
+    "img": " https://epg.beinsports.com/france_sports/10MAX.svg"
+  },
+  {
+    "id": 11,
+    "name": "Bin sport premier1HD",
+    "img": "https://proxies-beinmena.portail.alphanetworks.be/proxy/imgdata?objectId=65&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"
+  },
+  {
+    "id": 12,
+    "name": "Bin sport premier2HD",
+    "img": " https://proxies-beinmena.portail.alphanetworks.be/proxy/imgdata?objectId=66&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"
+  },
+  {
+    "id": 13,
+    "name": "Bin sport premier3HD",
+    "img": " https://proxies-beinmena.portail.alphanetworks.be/proxy/imgdata?objectId=72&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"
+  }
+      ]
+ 
